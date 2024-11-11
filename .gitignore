@@ -2,6 +2,8 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Cache
+.idea
 .vscode
 .vs
 *.VC.db
